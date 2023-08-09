@@ -1,11 +1,11 @@
 # Git-Chrono ⭐
 
-`Git-Chrono` is a simple CLI tool that makes your **Github-Contribution-Graph** look like pro. 🚀
-I built this tool to expand my knowledge on the `C programming language`.
+`Git-Chrono` is a simple CLI tool that makes your **Github-Contribution-Graph** look like a pro. 🚀
+I built this tool to expand my knowledge of the `C programming language`.
 
 ## How does it work 🤔
 
-Although `Git-Chrono` was built in C, the logic behind it is generating false commits and seeding the commits thoughout the year. Basically, you pass the total commits you want for a day, and the staturation. With this, it would generate commits for that git-repo throughout the year.
+Although `Git-Chrono` was built in C, the logic behind it is generating false commits and seeding the commits throughout the year. Basically, you pass the total commits you want for a day, and the saturation. With this, it would generate commits for that git-repo throughout the year.
 
 With this tool, I can seed my Contribution-Graph with commits throughout the year.
 ![Screenshot](/assets/img-1.png)
