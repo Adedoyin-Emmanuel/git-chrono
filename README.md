@@ -1,5 +1,9 @@
 # Git-Chrono ⭐
 
+[![wakatime](https://wakatime.com/badge/user/1cf7c976-595a-4fc7-a7c4-324b43a74aca/project/e5bbf196-a4af-4eed-a5fe-83b6e3eae539.svg)](https://wakatime.com/badge/user/1cf7c976-595a-4fc7-a7c4-324b43a74aca/project/e5bbf196-a4af-4eed-a5fe-83b6e3eae539)
+
+
+
 `Git-Chrono` is a simple CLI tool that makes your **Github-Contribution-Graph** look like a pro. 🚀
 I built this tool to expand my knowledge of the `C programming language`.
 
