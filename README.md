@@ -41,3 +41,8 @@ Contributions are highly welcome,
 - Wait for the issue to be assigned to you
 - Fork the repo and submit a pull request from your branch
 - Bingo 🚀
+
+
+
+
+This project was inspired by this [Repo](https://github.com/umayr/badass/tree/develop)
