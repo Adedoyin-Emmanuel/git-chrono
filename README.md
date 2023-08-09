@@ -11,10 +11,12 @@ With this tool, I can seed my Contribution-Graph with commits throughout the yea
 ## Usage ⚙️
 
 To use the `Git-Chrono` download the executable file and run the executable file with the necessary parameters.
-
+the executable file is the main which is part of the repo
 ```bash
 
-./git-chrono --saturation 70 --max-commit 10
+git clone https://github.com/Adedoyin-Emmanuel/git-chrono
+cd git-chrono
+./main --saturation 70 --max-commit 10
 
 ```
 
@@ -22,7 +24,7 @@ To get all possible arguments to use with the `Git-Chrono` type
 
 ```bash
 
-./git-chrono --help
+./main --help
 
 ```
 
