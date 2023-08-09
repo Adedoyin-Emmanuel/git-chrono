@@ -1,8 +1,13 @@
 # Git-Chrono ⭐
 
+<div style="display: flex; justify-content: center;">
+
 [![wakatime](https://wakatime.com/badge/user/1cf7c976-595a-4fc7-a7c4-324b43a74aca/project/e5bbf196-a4af-4eed-a5fe-83b6e3eae539.svg)](https://wakatime.com/badge/user/1cf7c976-595a-4fc7-a7c4-324b43a74aca/project/e5bbf196-a4af-4eed-a5fe-83b6e3eae539)
 
+  <a href="https://github.com/adedoyin-emmanuel/git-chrono/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adedoyin-emmanuel/git-chrono.svg?style=social"></a>
+  <a href="https://github.com/adedoyin-emmanuel/git-chrono/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/adedoyin-emmanuel/git-chrono.svg?style=social"></a>
 
+</div>
 
 `Git-Chrono` is a simple CLI tool that makes your **Github-Contribution-Graph** look like a pro. 🚀
 I built this tool to expand my knowledge of the `C programming language`.
@@ -45,8 +50,5 @@ Contributions are highly welcome,
 - Wait for the issue to be assigned to you
 - Fork the repo and submit a pull request from your branch
 - Bingo 🚀
-
-
-
 
 This project was inspired by this [Repo](https://github.com/umayr/badass/tree/develop)
